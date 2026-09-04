@@ -1,6 +1,6 @@
-# Programming Labs (C++ · First Semester)
+# Programming Labs 
 
-University lab works for the introductory C++/programming course. Each lab focuses on a small, self-contained task (I/O, loops, numeric methods, basic math functions) with simple console interaction and reproducible outputs.
+University lab works in C++ and JAVA (for now).
 This one is actually a repository consisting of Labs, their results, tasks, solutions and reports that made me suffer through university. Mostly rejected many times, fixed a thousands of times and even broke millions of times but still got the grades for them and passed all. I made this repo to not only save my labworks and review them when needed, but also to remind myself that how hard I tried each semester to pass some programming projects and lab works. For now only the first semester is uploaded. 
 
 ## Contents
